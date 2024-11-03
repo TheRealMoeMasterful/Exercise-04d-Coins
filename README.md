@@ -1,4 +1,7 @@
 # Exercise-04c-Enemies
+11/2/2024
+
+Jump around a whole lot! Jump on objects! Jump on enemies! Only one chance!
 
 ## Implementation
 For this exercise, I implemented the following additional features into the game:
