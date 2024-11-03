@@ -1,6 +1,17 @@
 # Exercise-04c-Enemies
+11/2/2024
+
+Jump around a whole lot! Jump on objects! Jump on enemies! Only one chance!
 
 ## Implementation
+For this exercise, I implemented the following additional features into the game:
+A scoring systems where enemies and collectibles give the player points
+4 levels, each of which is long, implements new mechanics, such as wall jumping, spikes, and new enemies, and increase in difficulty as they progress.
+4 different types of enemies: chargers, chasers, jumpers, and droppers
+Spikes that kill the player
+Main and end menu
+A diamond hidden in each level that rewards the player for exploration
+Sound effects and music
 
 ## References
 
